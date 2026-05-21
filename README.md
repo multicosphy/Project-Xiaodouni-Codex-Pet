@@ -123,6 +123,17 @@ Generated paths include:
 
 `packages/xiaodouni-codex-pet/pet.json` must remain UTF-8 without BOM. Windows PowerShell 5 `Set-Content -Encoding UTF8` can write a BOM, which may cause Codex to ignore the custom pet.
 
+## License and IP Notice
+
+This is an unofficial fan project for Nobeko's Xiaodouni / Azukisan character. It is not affiliated with, endorsed by, or sponsored by Nobeko, KADOKAWA, or any official rights holder.
+
+- Code, scripts, documentation, and repository configuration are licensed under the MIT License. See `LICENSE`.
+- Character names, character identity, visual assets, generated frames, spritesheets, and packaged pet artwork are not open licensed by this repository. See `ASSET-LICENSE.md`.
+
+Do not reuse, redistribute, remix, commercialize, or publish derivative Xiaodouni character artwork from this repository unless you have permission from the relevant rights holder or your use is otherwise permitted by applicable law.
+
+The pet artwork was generated with OpenAI/Codex tooling under human direction, then selected, arranged, cleaned, packaged, and validated in this repository. See `NOTICE.md` for the AI provenance and rights note.
+
 ## Contributing
 
 Issues and pull requests are welcome. Useful contributions include:
@@ -134,8 +145,9 @@ Issues and pull requests are welcome. Useful contributions include:
 
 For generated raster assets, update the source script or source image first, then regenerate and validate the output. Do not edit individual generated frames by hand unless the change is explicitly a package repair.
 
+By contributing code or documentation, you agree that your contribution is licensed under the MIT License. Do not submit third-party character art or Nobeko/Xiaodouni derivative assets unless you have permission from the relevant rights holder.
+
 ## Known Gaps
 
 - No lint, format, typecheck, test, or CI configuration was found.
-- The current folder is not a Git repository.
 - In this environment, `rg.exe` failed with `Access is denied`; PowerShell `Get-ChildItem -Recurse` was used for repository inspection.

@@ -16,3 +16,5 @@ Codex should then see:
 ```
 
 `pet.json` must stay UTF-8 without BOM.
+
+This is an unofficial fan package for Nobeko's Xiaodouni / Azukisan character. Character identity and artwork are not open licensed by this repository; see the root `ASSET-LICENSE.md` and `NOTICE.md`.
