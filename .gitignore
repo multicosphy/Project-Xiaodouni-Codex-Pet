@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+
+# Generated validation/build output. Regenerate with scripts/build_hatch_pet.py.
+runs/
+
+# Keep the installable package tracked.
+!packages/xiaodouni-codex-pet/

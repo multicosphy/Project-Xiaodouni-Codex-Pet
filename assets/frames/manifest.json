@@ -1,0 +1,85 @@
+{
+  "source": "assets/source/xiaodouni_sprite_sheet_green.png",
+  "actions": {
+    "idle": [
+      "assets/frames/idle/00.png",
+      "assets/frames/idle/01.png",
+      "assets/frames/idle/02.png",
+      "assets/frames/idle/03.png",
+      "assets/frames/idle/04.png",
+      "assets/frames/idle/05.png"
+    ],
+    "coding": [
+      "assets/frames/coding/00.png",
+      "assets/frames/coding/01.png",
+      "assets/frames/coding/02.png",
+      "assets/frames/coding/03.png",
+      "assets/frames/coding/04.png",
+      "assets/frames/coding/05.png",
+      "assets/frames/coding/06.png",
+      "assets/frames/coding/07.png"
+    ],
+    "fix_bug": [
+      "assets/frames/fix_bug/00.png",
+      "assets/frames/fix_bug/01.png",
+      "assets/frames/fix_bug/02.png",
+      "assets/frames/fix_bug/03.png",
+      "assets/frames/fix_bug/04.png",
+      "assets/frames/fix_bug/05.png"
+    ],
+    "error": [
+      "assets/frames/error/00.png",
+      "assets/frames/error/01.png",
+      "assets/frames/error/02.png",
+      "assets/frames/error/03.png",
+      "assets/frames/error/04.png",
+      "assets/frames/error/05.png",
+      "assets/frames/error/06.png",
+      "assets/frames/error/07.png"
+    ],
+    "loading": [
+      "assets/frames/loading/00.png",
+      "assets/frames/loading/01.png",
+      "assets/frames/loading/02.png",
+      "assets/frames/loading/03.png",
+      "assets/frames/loading/04.png",
+      "assets/frames/loading/05.png"
+    ],
+    "celebrate": [
+      "assets/frames/celebrate/00.png",
+      "assets/frames/celebrate/01.png",
+      "assets/frames/celebrate/02.png",
+      "assets/frames/celebrate/03.png",
+      "assets/frames/celebrate/04.png",
+      "assets/frames/celebrate/05.png"
+    ],
+    "peek": [
+      "assets/frames/peek/00.png",
+      "assets/frames/peek/01.png",
+      "assets/frames/peek/02.png",
+      "assets/frames/peek/03.png",
+      "assets/frames/peek/04.png",
+      "assets/frames/peek/05.png",
+      "assets/frames/peek/06.png",
+      "assets/frames/peek/07.png"
+    ],
+    "sleep": [
+      "assets/frames/sleep/00.png",
+      "assets/frames/sleep/01.png",
+      "assets/frames/sleep/02.png",
+      "assets/frames/sleep/03.png",
+      "assets/frames/sleep/04.png",
+      "assets/frames/sleep/05.png"
+    ],
+    "supervise": [
+      "assets/frames/supervise/00.png",
+      "assets/frames/supervise/01.png",
+      "assets/frames/supervise/02.png",
+      "assets/frames/supervise/03.png",
+      "assets/frames/supervise/04.png",
+      "assets/frames/supervise/05.png",
+      "assets/frames/supervise/06.png",
+      "assets/frames/supervise/07.png"
+    ]
+  }
+}
