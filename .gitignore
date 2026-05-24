@@ -16,6 +16,7 @@ Thumbs.db
 
 # Generated validation/build output. Regenerate with scripts/build_hatch_pet.py.
 runs/
+dist/
 
 # Keep the installable package tracked.
 !packages/xiaodouni-codex-pet/
